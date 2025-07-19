@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Prateek</h1>
 <h3 align="center">👋 Hi, I'm Prateek — a 3rd-year CSE undergrad who loves crafting scalable backend systems and clean, high-performance web apps. From building real-time platforms to reimagining protocols in Go, I turn complex ideas into elegant code. Always learning, always building.</h3>
 
-<p align="left"> <a href="https://twitter.com/prateek_bala28" target="blank"><img src="https://img.shields.io/twitter/follow/prateek_bala28?logo=twitter&style=for-the-badge" alt="prateek_bala28" /></a> </p>
+<a href="https://twitter.com/prateek_bala28" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prateek_bala28" height="30" width="40" />
+</a>
+
 
 - 📫 How to reach me **prateekbala28@gmail.com**
 
