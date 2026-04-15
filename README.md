@@ -1,21 +1,42 @@
-<h1 align="center">Hi 👋, I'm Prateek</h1>
-<h3 align="center">👋 Hi, I'm Prateek — a 3rd-year CSE undergrad who loves crafting scalable backend systems and clean, high-performance web apps. From building real-time platforms to reimagining protocols in Go, I turn complex ideas into elegant code. Always learning, always building.</h3>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/prateek_bala28" target="blank"><img src="https://img.shields.io/twitter/follow/prateek_bala28?logo=twitter&style=for-the-badge" alt="prateek_bala28" /></a> </p>
+# Prateek Bala
 
-- 📫 How to reach me **prateekbala28@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prateekbala-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/prateekbala)
+[![Twitter](https://img.shields.io/badge/Twitter-@prateek__bala28-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/prateek_bala28)
+[![Email](https://img.shields.io/badge/Gmail-prateekbala28@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:prateekbala28@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/prateek_bala28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prateek_bala28" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prateekbala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prateekbala" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+CSE undergrad drawn to the hard parts of backend engineering — distributed consensus, low-latency I/O, systems that hold up under pressure. I work closest to the metal when I can: lock-free queues in C++, Raft from scratch in Go, SSE over polling because polling is lazy.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prateekbala&show_icons=true&locale=en&layout=compact" alt="prateekbala" /></p>
+Interested in **fintech infrastructure**, **distributed systems**, and **MLOps tooling**. Currently building microservices at Flexzistay and contributing to KServe (CNCF).
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prateekbala&show_icons=true&locale=en" alt="prateekbala" /></p>
+---
+## What I'm into
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateekbala&" alt="prateekbala" /></p>
+Building backend systems that hold up under pressure — high-throughput queues, low-latency pipelines, distributed coordination. And increasingly, making AI actually work in production: inference routing, agent orchestration, LLMs that do real things instead of demoing well.
+
+The intersection is where it gets interesting — autonomous systems with financial logic, agents that don't just respond but *act*. That's the space I want to build in.
+
+## Projects
+
+**[RiftMQ](https://github.com/prateekbala/riftmq)** — Kafka-inspired queue in Go. Raft consensus, WAL, consistent hashing. 17,900 msg/sec, 100% delivery under 200 producers.
+
+**[FIX Protocol Trading Gateway](https://github.com/prateekbala/fix-gateway)** — C++20 order engine. Lock-free queues, async I/O. P50: 350µs, P99: 633µs at 250K orders/sec.
+
+**[LLM Inference Router](https://github.com/prateekbala/llm-router)** — OpenAI-compatible gateway across vLLM nodes. Circuit breakers, Prometheus/Grafana observability.
+
+---
+
+## Open Source — KServe (CNCF)
+
+[#142](https://github.com/kserve/kserve) · Namespace filtering for multi-tenant K8s  
+[#161](https://github.com/kserve/kserve) · InferenceGraph routing for multi-model pipelines
+
+---
+
+<div align="center">
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekbala&layout=compact&hide_border=true&theme=default" />
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=prateekbala&hide_border=true" />
+</div>
