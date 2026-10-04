@@ -20,93 +20,49 @@ Lately, I've been exploring AI infrastructure, LLM inference, autonomous coding 
 
 I learn best by building things from scratch, measuring how they perform, and understanding why they work.
 
----
-
-## What I'm working on
-
-- **Backend engineering:** Scalable APIs, PostgreSQL, Redis, concurrency-safe workflows, and event-driven architectures.
-- **Distributed systems:** Message brokers, consensus, replication, fault tolerance, and high-throughput processing.
-- **AI infrastructure:** LLM inference routing, observability, agent orchestration, and production AI systems.
-- **Cloud-native engineering:** Kubernetes, KServe, Kubeflow, Docker, CI/CD, and production deployments.
-- **Systems programming:** Go, modern C++, networking, asynchronous I/O, and performance optimization.
-
 ## Projects
 
 ### 1. Codewatch — Autonomous GitHub PR Review Agent
+[**Repository**](https://github.com/Prateekbala/Codewatch) · TypeScript, LangGraph, Node.js, OpenAI API
 
-[**Repository**](https://github.com/Prateekbala/Codewatch)
-
-**TypeScript · LangGraph · Node.js · Hono · OpenAI API · GitHub Apps · Docker**
-
-An LLM-powered code review agent designed to identify actionable issues in pull requests.
-
-- Built a modular review engine supporting CLI execution and GitHub App webhooks.
-- Implemented multi-stage review workflows, parallel diff analysis, and line-level source grounding.
-- Added severity-based filtering, confidence scoring, and a secondary verification pass to reduce false positives.
-- Built repository-specific review policies, token budgets, cost controls, and an evaluation framework measuring precision, recall, and F1.
+LLM-powered code review agent supporting CLI and GitHub App workflows.
+- Built multi-stage reviews with parallel diff analysis, line-level grounding, and secondary verification to reduce false positives.
+- Added repository-specific policies, token budgets, and evaluation using precision, recall, and F1.
 
 ### 2. RiftMQ — Distributed Messaging System
+[**Repository**](https://github.com/Prateekbala/Distributed-system) · Go, Raft, WAL, Docker
 
-[**Repository**](https://github.com/Prateekbala/Distributed-system)
-
-**Go · Raft · WAL · Docker · Distributed Systems**
-
-A Kafka-inspired distributed message broker built from scratch.
-
-- Achieved approximately 18K messages/sec with 200 concurrent producers.
-- Implemented Raft consensus, leader election, and message replication.
-- Built persistent message storage using a write-ahead log (WAL).
-- Implemented consumer groups, offset tracking, partition assignment, and recovery mechanisms.
+Kafka-inspired distributed message broker built from scratch.
+- Achieved **18K messages/sec** with 200 concurrent producers.
+- Implemented Raft consensus, leader election, persistent storage, replication, and consumer groups.
 
 ### 3. FIX Protocol Trading Gateway
+[**Repository**](https://github.com/Prateekbala/Fix-Protocol-Tranding-Engine) · C++20, FIX 4.4, Async I/O
 
-[**Repository**](https://github.com/Prateekbala/Fix-Protocol-Tranding-Engine)
-
-**C++20 · FIX 4.4 · Lock-Free Queues · Async I/O**
-
-A low-latency trading gateway implementing order-management and execution workflows.
-
-- Built a FIX 4.4 gateway with asynchronous networking and lock-free queues.
-- Optimized the order-processing pipeline for high-throughput execution.
-- Benchmarked performance at 250K orders/sec, with reported P50 latency of 350µs and P99 latency of 633µs.
+Low-latency trading gateway for order-management and execution workflows.
+- Built asynchronous networking and lock-free queues, benchmarking **250K orders/sec**.
+- Achieved **350µs P50** and **633µs P99** latency.
 
 ### 4. Distributed LLM Inference Router
+[**Repository**](https://github.com/Prateekbala/Distributed-LLM-Router) · Python, FastAPI, vLLM, Prometheus, Grafana
 
-[**Repository**](https://github.com/Prateekbala/Distributed-LLM-Router)
-
-**Python · FastAPI · vLLM · Docker · Prometheus · Grafana**
-
-An OpenAI-compatible gateway that routes inference requests across multiple vLLM workers.
-
-- Implemented round-robin, least-loaded, latency-aware, and inference-aware routing.
-- Built health checks, automatic retries, failover, and backpressure controls.
-- Added per-node TTFT, token-throughput, active-request, error-rate, and queue-depth metrics.
-- Created a reproducible benchmark harness to compare latency and throughput across routing strategies.
+OpenAI-compatible gateway for routing inference requests across vLLM workers.
+- Implemented load-aware routing, health checks, automatic failover, retries, and backpressure.
+- Built observability and benchmarking for TTFT, token throughput, and request latency.
 
 ### 5. Flexzistay — Hotel Marketplace
+[**Live Website**](https://www.flexzistay.in/) · Node.js, TypeScript, PostgreSQL, Redis, GCP
 
-[**Live Link**](https://www.flexzistay.in/)
-
-**Node.js · TypeScript · PostgreSQL · Prisma · Redis · GCP · Pub/Sub**
-
-Production backend engineering for a hotel marketplace, built from the ground up.
-
-- Designed and shipped 100+ REST APIs covering search, availability, inventory, reservations, pricing, payments, and wallets.
-- Integrated HyperGuest for hotel catalog synchronization, availability, booking, cancellation, and webhook reconciliation across 10K+ hotels.
-- Built concurrency-safe booking workflows using transactions, row-level locking, idempotency, and atomic inventory updates.
-- Reduced API P95 latency by 50% to under 150ms through query optimization, indexing, connection pooling, and caching.
-- Deployed and scaled production services on Google Cloud Run, serving 10K+ users.
+Built the production backend for a hotel marketplace serving **10K+ users**.
+- Shipped **100+ REST APIs** and integrated hotel inventory and booking workflows across 10K+ hotels.
+- Implemented concurrency-safe bookings and reduced API P95 latency by **50% to under 150ms**.
 
 ### 6. Voice AI Backend
+**SIP, Streaming Audio, STT/LLM/TTS, MCP**
 
-**Python/Backend Systems · SIP · Streaming Audio · STT · LLM · TTS · MCP**
-
-- Optimized a real-time voice pipeline, reducing perceived latency from 1.4 seconds to 900ms.
-- Built provider-agnostic telephony workflows with SIP integration, call orchestration, and provider failover.
-- Integrated Model Context Protocol (MCP) tools so voice agents could discover and execute external API operations.
-
----
-
+Built backend infrastructure for real-time voice agents.
+- Reduced perceived audio pipeline latency from **1.4s to 900ms**.
+- Implemented provider-agnostic telephony, call orchestration, failover, and MCP tool execution.
 ## Open Source
 
 ### KServe / Kubeflow — CNCF Ecosystem
@@ -120,22 +76,6 @@ Contributing to Kubernetes-native model serving and cloud-native AI infrastructu
   Added InferenceGraph custom-resource support, including schema integration, backend APIs, and UI resource lifecycle management for multi-model inference pipelines.
 
 I enjoy contributing to projects where improvements in APIs, resource management, and infrastructure make the developer experience better for everyone.
-
----
-
-## Tech Stack
-
-**Languages:** Go, TypeScript, JavaScript, Python, C/C++, SQL
-
-**Backend:** Node.js, Express.js, FastAPI, Hono, REST APIs, Microservices, Event-Driven Architecture
-
-**Databases & Messaging:** PostgreSQL, MySQL, MongoDB, Redis, Kafka, Google Cloud Pub/Sub
-
-**Distributed Systems:** Raft Consensus, Leader Election, Replication, WAL, Partitioning, Fault Tolerance, Concurrency
-
-**AI Infrastructure:** vLLM, OpenAI-Compatible APIs, LLM Inference Routing, LangGraph, MCP, Prometheus, Grafana
-
-**Cloud & DevOps:** Kubernetes, Docker, GCP, AWS, GitHub Actions, CI/CD
 
 ---
 
